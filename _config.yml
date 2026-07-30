@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Ameh Samuel # the website title (if blank, full name will be used instead)
 first_name: Ameh
 middle_name: O.
 last_name: Samuel
@@ -238,6 +238,15 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - blog.md
+  - books.md
+  - news.md
+  - publications.md
+  - teaching.md
+  - repositories.md
+  - dropdown.md
+  - profiles.md
+  
 keep_files:
   - CNAME
   - .nojekyll
