@@ -17,4 +17,4 @@ I am a graduate Chemical Engineer who has hands on training in data analysis, us
 
 For fun, i trade in my spare time and that is when i am not on the court playing volleyball.
 
-Connect with me on [Linkedin](https://www.linkedin.com/amehsamuel).
+Connect with me on [Linkedin](https://www.linkedin.com/in/samuel-ameh1).
