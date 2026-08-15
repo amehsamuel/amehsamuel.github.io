@@ -23,7 +23,7 @@ repository               : "amehsamuel/amehsamuel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Samuel Ameh"
   bio              : "Data Analyst"
   location         : "Abuja, Nigeria"
@@ -31,8 +31,7 @@ author:
   github           : "https://www.github.com/amehsamuel"
 
 
-  # Repositories and software development
- 
+
   # Social media
   artstation       : # Username
   facebook         : # Username
