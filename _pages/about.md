@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Samuel Ameh 
-======
 Data Analyst, Chemical Engineering, Crude Oil Trader.
 
 About Me
